@@ -1,4 +1,4 @@
-# CiphersImplementations
+# Ciphers Implementations
 
 ## Overview
 This Python code will include different types of popular encyrption \ decryption algorithms, including Vigenere cipher, Playfair cipher. 
